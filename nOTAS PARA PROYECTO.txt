@@ -1,0 +1,1 @@
+CONDICIONAL para mayor de 18 al entrar a la pagina
